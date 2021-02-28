@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+ I’m currently learning Reactive programming.
+ 
+ And some spiritual study
+ Recommendation:
+ 1. Tatwa gyan
+
 <!--
 **prabhakarshah/prabhakarshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
