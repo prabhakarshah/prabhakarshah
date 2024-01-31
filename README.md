@@ -1,10 +1,6 @@
 ### Hi there 👋
 
- I’m currently learning Reactive programming.
- 
- And some spiritual study
- Recommendation:
- 1. Tatwa gyan
+ I’m currently living in peach and luckily I found a girlfriend who move on adding to that peach.
 
 <!--
 **prabhakarshah/prabhakarshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
