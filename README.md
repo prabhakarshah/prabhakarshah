@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- I’m currently living in peach and luckily I found a girlfriend who move on adding to that peach.
+ I’m currently living in peace and luckily I found a girlfriend who move on adding to that peace.
 
 <!--
 **prabhakarshah/prabhakarshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
