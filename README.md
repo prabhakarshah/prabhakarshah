@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- I’m currently living in peace and luckily I found a girlfriend who move on adding to that peace.
+I started coding in TurboC++ and now I know how to use it well. Living on the pieces made by claude code as I can't write Front end except when it is python<>dash<>plotly. seems like python was indeed a good choice of language to learn as it open the window to AI(An Indian) and As an Indian, I can say that it's never to late to become more as India AF.
 
 <!--
 **prabhakarshah/prabhakarshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
